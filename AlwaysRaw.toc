@@ -2,6 +2,6 @@
 ## Title: AlwaysRaw
 ## Notes: Sets the CVars for raw mouse input and disables raw mouse acceleration.
 ## Author: Marris
-## Version: 1.0.2
+## Version: 1.0.3
 
 AlwaysRaw.lua
