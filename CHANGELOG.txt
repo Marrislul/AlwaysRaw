@@ -1,1 +1,1 @@
-1.0.5: Added other versions
+1.1.0: Added cata

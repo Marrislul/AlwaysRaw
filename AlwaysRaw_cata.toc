@@ -1,0 +1,7 @@
+## Interface: 40400
+## Title: AlwaysRaw
+## Notes: Sets the CVars for raw mouse input and disables raw mouse acceleration.
+## Author: Marris
+## Version: @project-version@
+
+AlwaysRaw.lua
