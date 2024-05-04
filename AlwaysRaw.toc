@@ -3,5 +3,7 @@
 ## Notes: Sets the CVars for raw mouse input and disables raw mouse acceleration.
 ## Author: Marris
 ## Version: @project-version@
+## SavedVariables: AlwaysRaw_Settings
+
 
 AlwaysRaw.lua

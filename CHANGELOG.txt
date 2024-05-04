@@ -1,1 +1,2 @@
-1.1.0: Added cata
+2.0.0:
+- added settings tab for: accel, raw input and update message
