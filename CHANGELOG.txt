@@ -1,2 +1,2 @@
-2.0.0:
-- added settings tab for: accel, raw input and update message
+2.0.1:
+- updated version
