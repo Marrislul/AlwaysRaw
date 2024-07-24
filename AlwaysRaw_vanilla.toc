@@ -4,5 +4,7 @@
 ## Author: Marris
 ## Version: @project-version@
 ## SavedVariables: AlwaysRaw_Settings
+## OptionalDeps: Ace3
 
+embeds.xml
 AlwaysRaw.lua
