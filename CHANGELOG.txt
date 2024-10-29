@@ -1,3 +1,2 @@
-3.0.3:
-- updated Version
-- test for simplified .toc files
+3.0.4:
+- updated .toc
