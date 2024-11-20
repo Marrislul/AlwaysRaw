@@ -1,4 +1,4 @@
-## Interface: 110005, 40401, 11504
+## Interface: 110005, 40401, 11505
 ## Title: AlwaysRaw
 ## Notes: Sets the CVars for raw mouse input and disables raw mouse acceleration.
 ## Author: Marris
