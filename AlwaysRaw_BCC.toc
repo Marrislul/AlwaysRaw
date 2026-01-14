@@ -1,0 +1,10 @@
+## Interface: 20505
+## Title: AlwaysRaw
+## Notes: Sets the CVars for raw mouse input and disables raw mouse acceleration.
+## Author: Marris
+## Version: @project-version@
+## SavedVariables: AlwaysRaw_Settings
+## OptionalDeps: Ace3
+
+embeds.xml
+AlwaysRaw.lua
